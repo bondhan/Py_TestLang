@@ -1,0 +1,3 @@
+HTTP_ERROR_400_DATA_INCOMPLETE = 400        # Data Tidak Lengkap
+HTTP_ERROR_409_DATA_NOT_FOUND = 409        # Data Tidak Ditemuakn
+HTTP_ERROR_500 = 500
