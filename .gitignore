@@ -3,3 +3,5 @@
 .idea
 *.log
 env
+.gitlab-ci.yml
+Dockerfile
