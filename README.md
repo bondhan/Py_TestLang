@@ -3,7 +3,7 @@
 ### Introduction
 A complete simulation of payment system using python flask. I simulates end2end call from client to the host (financial institutions) which mostly communicate using ISO8583. Below is the information flow:
 
-API CALL <-- (Rest/Json) --> API Server <-- (Rest/Json) --> ISO Client Server <-- (ISO8583) --> ISO Server
+**API CALL <-- (Rest/Json) --> API Server <-- (Rest/Json) --> ISO Client Server <-- (ISO8583) --> ISO Server**
 
 ### Requirements
 
